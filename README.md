@@ -28,7 +28,11 @@ I am Sourav Borate 😃, a Full Stack Developer and Electronics and Telecommunic
 - My email address : boratesourav@gmail.com
 
 ### 🤝🏻 Connect with me: 
+
+
 <a href="https://www.linkedin.com/in/sourav-borate-bb25831b2/" target="blank"><img align="center" src="./linkedin.svg" alt="linkedin" height="30" width="40" /></a>
+
+
 
 
 Have a nice day 😊 !
