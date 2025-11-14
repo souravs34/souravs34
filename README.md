@@ -12,12 +12,6 @@ I’m a Java Developer with 2 years of professional experience at FIS Global, wh
 ### ❤️ Interests : 
 ![image](https://user-images.githubusercontent.com/44909504/118012375-7fe62480-b340-11eb-8fce-9fd3a25560c8.png)
 
-
-
-### ⚡ GitHub Stats
-![Sourav's GitHub stats](https://github-readme-stats.vercel.app/api?username=souravs34&show_icons=true&theme=radical)
-
-
 ### 💻 Programming : 
 
 - leetcode : https://leetcode.com/souravs34/
