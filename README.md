@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I am Sourav Borate 😃, a Full Stack Developer. I completed B.E. in Electronics and Telecommunication at Pune Institute of Computer Technology. I am interested at learning new technologies in software development field, especially the ones related to web development.
+I’m a Java Developer with 2 years of professional experience at FIS Global, where I also completed a 6-month internship. I enjoy building efficient, scalable software and continuously improving my skills.
 
 ### 🛠 Tech Stack : 
 - 💻 &nbsp; C++ | Python | Javascript | Java
-- 🌐 &nbsp; React | Node Js | Express Js | Bootstrap | HTML | CSS
-- 🛢 &nbsp; MongoDB 
-- 🔧 &nbsp; Git | Postman | Cloudinary
+- 🌐 &nbsp; React | Node Js | Express Js | Bootstrap | HTML | CSS | Spring Boot
+- 🛢 &nbsp; MongoDB | MySQL
+- 🔧 &nbsp; Git | Postman | Linux 
 - ✍️ &nbsp; Visual studio code | Dev C++ 
 
 ### ❤️ Interests : 
