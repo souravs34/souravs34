@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m a Java Developer with 2 years of professional experience at FIS Global, where I also completed a 6-month internship. I enjoy building efficient, scalable software and continuously improving my skills.
+I’m a Java Developer with 3 years of professional experience at FIS Global, where I also completed a 6-month internship. I enjoy building efficient, scalable software and continuously improving my skills.
 
 ### 🛠 Tech Stack : 
 - 💻 &nbsp; C++ | Python | Javascript | Java
